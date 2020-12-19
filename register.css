@@ -20,7 +20,7 @@ input[type="number"] {
   background-color: #d5c8c8;
 }
 
-button[type="submit"] {
+button {
   margin-top: 10px;
   padding: 5px;
   font-size: 20px;
